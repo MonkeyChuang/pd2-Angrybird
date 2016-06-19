@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="ground.png">image/GROUND.png</file>
+        <file>image/red.png</file>
+        <file>image/chuck.png</file>
+        <file>image/hal.png</file>
+        <file>image/woodbar_1.jpg</file>
+        <file>image/woodbar_2.jpg</file>
+        <file>image/woodbrick_1.jpg</file>
+        <file>image/woodbrick_2.jpg</file>
+        <file>image/blue_h.png</file>
+        <file>image/chuck_h.png</file>
+        <file>image/hal_h.png</file>
+        <file>image/red_h.png</file>
+        <file>image/pig_h.png</file>
+        <file>image/blue.png</file>
+        <file>image/pig.png</file>
+        <file>image/game_over.png</file>
+        <file>image/shooter.png</file>
+        <file>image/background.jpg</file>
+    </qresource>
+</RCC>
